@@ -5,7 +5,7 @@ A frontend/backend project made to revive Yik Yak.
 
 Made using Meteor, I was able to make a Yik Yak clone. You must be logged in to see the feed and send messages/comment.
 
-![Message feed screenshot](messages.png.png)
+![Message feed screenshot](messages.png)
 
 This app uses Meteor JS conventions.
 
